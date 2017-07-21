@@ -1,0 +1,10 @@
+   {
+       "type": "MOD_INFO",
+       "mod_type": "SUPPLEMENTAL",
+       "ident": "Uekibati_mod",
+       "name": "追加 - 植木鉢パック",
+       "description": "植木鉢と関連のレシピを追加します。気が向きましたら、どうぞ。",
+       "author": "火男",
+		"category": "items",
+       "path": ""
+   }
