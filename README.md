@@ -66,6 +66,11 @@ Ver1.01より追加　(勝手に生育時間を決めました。公式で育て
 
 # 更新履歴
 
+## [2.0.1](https://github.com/hirmiura/cdda-mod-Uekibati/tree/2.0.1) (2017-07-22)
+[Full Changelog](https://github.com/hirmiura/cdda-mod-Uekibati/compare/2.0.0...2.0.1)
+
+- modinfoに依存関係を追加
+
 ## [2.0.0](https://github.com/hirmiura/cdda-mod-Uekibati/tree/2.0.0) (2017-07-22)
 
 - フォーク後の初リリース
