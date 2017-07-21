@@ -7,5 +7,6 @@
      "authors": ["火男"],
      "maintainers": ["hirmiura"],
      "category": "items",
+     "dependencies": ["dda"],
      "path": ""
    }
